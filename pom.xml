@@ -51,6 +51,7 @@
             </plugin>
 
         </plugins>
+            <finalName>jeevan_demo</finalName>
     </build>
 
 </project>
